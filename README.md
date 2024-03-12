@@ -10,7 +10,7 @@ Here I want to share some of my web and mobile testing portfolio items that I cr
 <li> 👩‍💻 Finished functional software testing course </li>
 <li> 🐞 I’m currently working as a freelance software tester at Test.io </li>
 <li> 🧐 Right now I am learning how to automate tests with JavaScript </li>
-<li> 📫 Reach me via ([email](jamaashyrbaeva@gmail.com)) or ([telegram](https://t.me/jamilya_aa)) </li>
+<li> 📫 Reach me via <a href="mailto:jamaashyrbaeva@gmail.com">email</a> or <a href="https://t.me/jamilya_aa">telegram</a> </li>
 <li> 🔭 I’m currently still working on this page, but feel free to explore. </li>
 <br/>
 
