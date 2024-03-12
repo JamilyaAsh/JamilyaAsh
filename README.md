@@ -1,7 +1,7 @@
 Hey, let me find some 🐞
 
 My name is Jamilya, I am a Functional Software Tester. 
-Here I want to share some of my web and mobile testing portfolio items that I created gained during some of my studies and freelance projects.
+Here I want to share some of my web and mobile testing portfolio items that I created during my studies and freelance projects.
 
 A Few Quick Facts
 
