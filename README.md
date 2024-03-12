@@ -1,4 +1,4 @@
-[![Header](https://github.com/JamilyaAsh/JamilyaAsh/blob/main/assets/Banner.gif)](http://linkedin.com/in/jamilyaa/)
+Header
 
 About me
 
