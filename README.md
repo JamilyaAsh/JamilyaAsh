@@ -9,7 +9,7 @@ A Few Quick Facts
 - 👩‍💻 Finished functional software testing course
 - 🐞 I’m currently working as a freelance software tester at Test.io
 - 🧐 Right now I am learning how to automate tests with JavaScript
-- 📫 Reach me via email jamaashyrbaeva@gmail.com or telegram: jamilya_aa
+- 📫 Reach me via ([email](jamaashyrbaeva@gmail.com)) or telegram: jamilya_aa
 - 🔭 I’m currently still working on this page, but feel free to explore. 
 
 ##Artifacts 
