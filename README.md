@@ -6,4 +6,4 @@ Artifacts
 
 Some Tools I Use
 
-Let's Connect 
+Let's Connect!
