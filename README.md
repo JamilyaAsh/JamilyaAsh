@@ -18,6 +18,7 @@ A Few Quick Facts
 ##Some Tools I Use
 
 ##Let's Connect!
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://linkedin.com/in/jamilyaa//)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](jamilya_aa)  
 
