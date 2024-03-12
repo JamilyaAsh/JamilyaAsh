@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/JamilyaAsh/JamilyaAsh/blob/main/assets/JA.gif)](http://linkedin.com/in/jamilyaa/)
 
-I'm Jamilya, a Quality Assurance Engineer. 
+I'm Jamilya, a Quality Assurance Engineer. <br/>
 Here I want to share some of my testing portfolio items that I created during my software testing journey.
 <br/>
 
