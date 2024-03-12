@@ -7,11 +7,11 @@ Here I want to share some of my web and mobile testing portfolio items that I cr
 <br/>
 
 <h2>About Me</h2>
-- 👩‍💻 Finished functional software testing course
-- 🐞 I’m currently working as a freelance software tester at Test.io
-- 🧐 Right now I am learning how to automate tests with JavaScript
-- 📫 Reach me via ([email](jamaashyrbaeva@gmail.com)) or ([telegram](https://t.me/jamilya_aa))
-- 🔭 I’m currently still working on this page, but feel free to explore. 
+<li> 👩‍💻 Finished functional software testing course </li>
+<li> 🐞 I’m currently working as a freelance software tester at Test.io </li>
+<li> 🧐 Right now I am learning how to automate tests with JavaScript </li>
+<li> 📫 Reach me via ([email](jamaashyrbaeva@gmail.com)) or ([telegram](https://t.me/jamilya_aa)) </li>
+<li> 🔭 I’m currently still working on this page, but feel free to explore. </li>
 <br/>
 
 <h2>🧰 Some Tools I Use</h2>
@@ -37,7 +37,7 @@ Here I want to share some of my web and mobile testing portfolio items that I cr
 <br />
 
 ---
-<h2>📝 Artifacts</h2>
+<h2>📝 Testing Artifacts</h2>
 
 <br/>
 
