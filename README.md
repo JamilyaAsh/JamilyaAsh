@@ -4,6 +4,6 @@ About me
 
 Artifacts 
 
-Languages and Tools 
+Some Tools I Use
 
 Let's Connect 
